@@ -7,7 +7,7 @@ they're bringing prey.
 
 I also really wanted to try binderhub, so here we go:
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kpaschen/imageprocJupyter)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/kpaschen/imageprocJupyter/master)
 
 
 
